@@ -1,5 +1,3 @@
-# Python-GUI-Calculator
-
 # Python GUI Calculator
 
 A simple and user-friendly calculator application built using Python and Tkinter.
