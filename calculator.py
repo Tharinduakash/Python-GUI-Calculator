@@ -34,7 +34,7 @@ def clear_field():
 root = tk.Tk()
 root.geometry("300x320")
 
-text_result = tk.Text(root, height=5, width=20, font=("Arial", 14))
+text_result = tk.Text(root, height=5, width=20, font=("Arial", 15))
 text_result.grid(columnspan=5)
 
 
